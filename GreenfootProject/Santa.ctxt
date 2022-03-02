@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Santa
+comment0.text=\n\ Write\ a\ description\ of\ class\ Santa\ here.\n\ Santa.class\ is\ an\ enemy\ for\ kid.class\ meant\ to\ prevent\ the\ kid\ from\ going\ too\ far\ left\ in\ the\ world.\n\ Santa.class\ does\ this\ by\ coming\ into\ the\ screen\ from\ the\ left\ when\ ever\ the\ kid\ is\ at\ a\ location\ that\ is\ less\ than\ half\ the\ x\ value\ of\ the\ world.\n\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Santa()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animation()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=num
+comment5.target=void\ moveBack(int)
+comment6.params=
+comment6.target=void\ deathAnim()
+numComments=7

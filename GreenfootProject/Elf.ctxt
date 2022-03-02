@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Elf
+comment0.text=\n\ Write\ a\ description\ of\ class\ Elf\ here.\n\ Elf.class\ is\ an\ enemy\ for\ kid.class\ meant\ to\ be\ an\ obstacle\ to\ make\ it\ difficult\ for\ the\ kid\ to\ escape\ from\ santa.class.\ \n\ Elf.class\ is\ spawned\ in\ randomly\ at\ a\ rate\ that\ does\ not\ make\ it\ hard\ for\ the\ kid\ to\ avoid\ them,\ but\ not\ easy\ either.\n\ Also,\ this\ class\ moves\ to\ the\ left\ of\ the\ world\ to\ make\ it\ look\ as\ if\ the\ kid.class\ is\ moving\ through\ the\ factory.\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Elf()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moving()
+numComments=4

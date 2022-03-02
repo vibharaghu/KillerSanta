@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Timer
+comment0.text=\n\ Write\ a\ description\ of\ class\ Timer\ here.\n\ Timer.class\ shows\ current\ time\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Timer()
+comment2.params=time
+comment2.target=void\ setTime(int)
+numComments=3

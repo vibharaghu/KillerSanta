@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=FlyingRo
+comment0.text=\n\ Write\ a\ description\ of\ class\ FlyingRo\ here.\n\ FlyingRo.class\ is\ an\ enemy\ for\ kid.class\ meant\ to\ be\ an\ obstacle\ to\ make\ it\ difficult\ for\ the\ kid\ to\ escape\ from\ santa.class.\ \n\ FlyingRo.class\ is\ spawned\ in\ randomly\ at\ a\ rate\ that\ does\ not\ make\ it\ hard\ for\ the\ kid\ to\ avoid\ them,\ but\ not\ easy\ either.\n\ Also,\ this\ class\ moves\ to\ the\ left\ of\ the\ world\ to\ make\ it\ look\ as\ if\ the\ kid.class\ is\ moving\ through\ the\ factory.\ \n\ This\ class\ also\ drops\ to\ the\ minimum\ height\ when\ above\ a\ certain\ y\ value\ at\ a\ random\ time.\n\n\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=n
+comment1.target=FlyingRo(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ colorChange()
+comment4.params=
+comment4.target=void\ moving()
+comment5.params=
+comment5.target=void\ movingRed()
+comment6.params=
+comment6.target=void\ fall()
+comment7.params=
+comment7.target=void\ random()
+comment8.params=
+comment8.target=boolean\ checkFall()
+numComments=9

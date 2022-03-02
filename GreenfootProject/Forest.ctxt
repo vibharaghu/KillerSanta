@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Forest
+comment0.text=\n\ Write\ a\ description\ of\ class\ Forest\ here.\n\ Forest.class\ is\ to\ show\ the\ escape\ route\ for\ the\ kid.class\ to\ get\ to\ his\ home\ base\ with\ patrick.class.\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Forest()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ duringGame()
+comment4.params=
+comment4.target=void\ endGame()
+comment5.params=
+comment5.target=void\ spawn()
+comment6.params=
+comment6.target=void\ santaAttack()
+comment7.params=
+comment7.target=void\ weapon()
+comment8.params=
+comment8.target=void\ subScore()
+comment9.params=
+comment9.target=void\ end()
+numComments=10

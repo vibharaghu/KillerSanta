@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Blaster
+comment0.text=\n\ Write\ a\ description\ of\ class\ Blaster\ here.\n\ Blaster.class\ shoots\ a\ candycane\ when\ game\ is\ complete\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Blaster()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animation()
+numComments=4

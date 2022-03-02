@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameBoardText
+comment0.text=\n\ Write\ a\ description\ of\ class\ GameBoardText\ here.\n\ GameBoardText.class\ is\ the\ text\ on\ the\ game\ board\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=GameBoardText()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ GameBoardText\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=score\ time
+comment2.target=void\ getGame(int,\ int)
+numComments=3

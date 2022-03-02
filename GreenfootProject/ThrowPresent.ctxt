@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ThrowPresent
+comment0.text=\n\ Write\ a\ description\ of\ class\ ThrowPresent\ here.\n\ ThrowPresents.class\ allows\ the\ kid\ to\ throw\ presents\ with\ the\ sapce\ button\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ThrowPresent()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ hit()
+comment4.params=
+comment4.target=void\ throwing()
+numComments=5

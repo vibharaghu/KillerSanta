@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Factory
+comment0.text=\n\ Write\ a\ description\ of\ class\ Factory\ here.\n\ Factory.class\ is\ to\ show\ the\ secret\ layer\ that\ santa.class\ has\ for\ his\ evil\ plan.\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Factory()
+comment1.text=\ \n\ Constructor\ for\ objects\ of\ class\ Factory.\n\ \n
+comment2.params=
+comment2.target=int\ presents()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ duringGame()
+comment5.params=
+comment5.target=void\ endGame()
+comment6.params=
+comment6.target=void\ music()
+comment7.params=
+comment7.target=void\ spawn()
+comment8.params=
+comment8.target=void\ santaAttack()
+comment9.params=
+comment9.target=void\ subScore()
+numComments=10

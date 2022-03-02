@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ScoreCurrent
+comment0.text=\n\ Write\ a\ description\ of\ class\ ScoreCurrent\ here.\n\ ScoreCurrent.class\ shows\ the\ current\ score\ in\ game\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ScoreCurrent()
+comment2.params=score
+comment2.target=void\ setScore(int)
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Instruction
+comment0.text=\n\ Instruction\:\ takes\ to\ controls\ \n\ Instuction.class\ is\ used\ to\ move\ between\ world\ classes\ when\ clicked\ on\ by\ the\ player\ with\ the\ mouse.\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Instruction()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ switchToInstruct()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Barrel
+comment0.text=\n\ Write\ a\ description\ of\ class\ Barrel\ here.\n\ Barrel.class\ it\ used\ as\ a\ platform\ for\ the\ kid\ to\ jump\ onto.\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=n
+comment1.target=Barrel(int)
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Barrel\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

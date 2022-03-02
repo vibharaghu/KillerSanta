@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GameBoard
+comment0.text=\n\ Write\ a\ description\ of\ class\ GameBoard\ here.\n\ GameBoard.class\ image\ of\ the\ Game\ Board\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=num
+comment1.target=GameBoard(int)
+numComments=2
